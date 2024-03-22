@@ -1,5 +1,5 @@
 # About this directory
-2022年に行われた(Quantum Computing for You)[https://altema.is.tohoku.ac.jp/QC4U/]の学習用です。
+2022年に行われた[Quantum Computing for You](https://altema.is.tohoku.ac.jp/QC4U/)の学習用です。
 
 # Usage
 
